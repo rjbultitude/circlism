@@ -1,0 +1,23 @@
+{
+  "name": "circlism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjbultitude/circlism.git"
+  },
+  "author": "Richard Bultitude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjbultitude/circlism/issues"
+  },
+  "homepage": "https://github.com/rjbultitude/circlism#readme"
+}
